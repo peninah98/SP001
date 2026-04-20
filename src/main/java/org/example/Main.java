@@ -6,6 +6,10 @@ public class Main {
 
     static void main() {
         System.out.println("Hello there!");
+        String str = "Big head";
+        System.out.println(str);
 
-    }
+        System.out.println( new String("Penine"));
+
+    };
 }
