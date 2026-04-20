@@ -11,5 +11,9 @@ public class Main {
 
         System.out.println( new String("Penine"));
 
+        Object numApples = 1000;
+//
+        Object value = 1000;
+        System.out.println(value.getClass().getSimpleName());
     };
 }
